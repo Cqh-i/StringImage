@@ -10,4 +10,5 @@
    <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/1.png"  width="124" height="248">
    <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/2.png"  width="124" height="248">
 </p>
+ Ps:字符串图画的文件我是用Notepad++打开的，记事本打开格式怪怪的而且也不能把字体缩到很小。这个小玩意实现并不难，给自己找点乐趣罢了，(*^▽^*)，(づ￣3￣)づ╭❤～。
 
