@@ -5,11 +5,9 @@
  <p align="center">
    <img src="https://raw.githubusercontent.com/Cqh-i/StringImage/master/DemoImage/DemoImage.gif"  width="742" height="492">
  </p>
- <p align="center">
-  &nbsp;
-   <p align="left">
-      <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/3.png"  width="124" height="248">
-      <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/1.png"  width="124" height="248">
-      <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/2.png"  width="124" height="248">
-   </p>
- </p>
+<p align="left">
+   <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/3.png"  width="124" height="248">
+   <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/1.png"  width="124" height="248">
+   <img src="https://github.com/Cqh-i/StringImage/blob/master/DemoImage/2.png"  width="124" height="248">
+</p>
+
